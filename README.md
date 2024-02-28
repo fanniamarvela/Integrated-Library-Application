@@ -1,0 +1,2 @@
+# Integrated Library Application
+In this project, i created a simple integrated library application for book lending database with four main features (create feature, read feature, update feature, and delete feature) by implementing Python programming basic functions such as data collection, conditional statement, looping, regular function, and some additional functions to be applied in an integrated application.
